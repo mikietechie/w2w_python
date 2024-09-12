@@ -2,6 +2,8 @@
 
 Develop a Python Telegram bot for a medical institution. The doctor/user should be able to add patients data. The patients data is full name and date of birth. Patients cannot be over a 100 years old. Data should be confirmed before saved.
 
+![alt text](image.png)
+
 ## How to run
 
 1. Create a file called ".env" in the root folder. Same level as .gitignore and docker-compose.yml.
