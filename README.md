@@ -1,4 +1,4 @@
-# Way2Win.ru Interview Assignment
+# Way2Win.ru Python Interview Assignment
 
 Develop a Python Telegram bot for a medical institution. The doctor/user should be able to add patients data. The patients data is full name and date of birth. Patients cannot be over a 100 years old. Data should be confirmed before saved.
 
